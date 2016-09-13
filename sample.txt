@@ -1,2 +1,2 @@
-this is sample.txt
+this is sample.text
 changed something in sample text
